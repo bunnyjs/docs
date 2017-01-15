@@ -1,6 +1,20 @@
 - title: Introduction
   items:
   - id: index
-    title: About
-  - id: how-it-works
-    title: How it works
+    title: Getting started
+#  - id: why
+#    title: Why?
+#  - id: architecture
+#    title: Architecture
+- title: Utilities
+  items:
+  - id: dom
+    title: DOM
+#  - id: element
+#    title: Element
+#  - id: url
+#    title: BunnyURL
+#  - id: file
+#    title: BunnyFile
+#  - id: image
+#    title: BunnyImage
