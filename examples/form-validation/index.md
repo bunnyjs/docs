@@ -90,11 +90,11 @@ Old `src/bunny.validate` is deprecated and will be removed in 1.0. Use newest ve
 
 </div>
 
-<script src="https://bunnyjs.com/dist/ajax.min.js"></script>
-<script src="https://bunnyjs.com/dist/file.min.js"></script>
-<script src="https://bunnyjs.com/dist/image.min.js"></script>
-<script src="https://bunnyjs.com/dist/element.min.js"></script>
-<script src="https://bunnyjs.com/dist/validation.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/ajax.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/file.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/image.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/element.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/validation.min.js"></script>
 
 <script>
 Validation.init(document.forms[0], true);
@@ -121,11 +121,11 @@ import { Validation } from 'bunnyjs/src/Validation';
 Or dists are available. Download them and put before `</body>`.
 
 ```html
-<script src="https://bunnyjs.com/dist/ajax.min.js"></script>
-<script src="https://bunnyjs.com/dist/file.min.js"></script>
-<script src="https://bunnyjs.com/dist/image.min.js"></script>
-<script src="https://bunnyjs.com/dist/element.min.js"></script>
-<script src="https://bunnyjs.com/dist/validation.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/ajax.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/file.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/image.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/element.min.js"></script>
+<script src="https://unpkg.com/bunnyjs@0.14.19/dist/validation.min.js"></script>
 ```
 
 Finally, just add 1 line of code:
